@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display&display=swap');
+
+body {
+  /* Photo by <a href="https://unsplash.com/@vivirishe?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Viviana Rishe</a> on <a href="https://unsplash.com/photos/silhouette-of-trees-and-houses-PQx5mCmXeUM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> */
+  background-image: url(/la-sunset.jpeg);
+}
